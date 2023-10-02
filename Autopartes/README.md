@@ -28,4 +28,10 @@ Para trabajar con mi proyecto, necesitarás lo siguiente:
 
 
 ![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
+
+
 
