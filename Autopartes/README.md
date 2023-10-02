@@ -27,5 +27,5 @@ Para trabajar con mi proyecto, necesitarás lo siguiente:
 ¡Espero que mi proyecto de modelado de RV y RA para autopartes en 2D y 3D sea de utilidad y proporcione una experiencia inmersiva a los entusiastas de la automoción y profesionales del sector!
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](Autopartes/Modelos_Imagenes/16Housing_06.jpg)
 
