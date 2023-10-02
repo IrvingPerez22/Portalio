@@ -28,10 +28,10 @@ Para trabajar con mi proyecto, necesitarás lo siguiente:
 
 
 ![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
-![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
-![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
-![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
-![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/74Placa_Extremo.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/75Extension_Flotador.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/78Plegador.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/79Guia_Ajustable.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Autopartes/Modelos_Imagenes/81Gu%C3%ADa_Ranura.jpg)
 
 
 
