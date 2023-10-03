@@ -26,9 +26,14 @@ Nos entusiasma recibir contribuciones de otros apasionados del modelado 3D. Si d
 
 Esperamos que esta colección de modelos 3D en nuestro hobby sea una fuente de inspiración y creatividad para tu propio proyecto. ¡Gracias por tu interés y contribuciones!
 
-![Logo]()
-![Logo]()
-![Logo]()
-![Logo]()
-![Logo]()
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/Casa1.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/Mouse.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/Pozo.jpg)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/aguacate1.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/aguacate2.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/android.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/casa2.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/lampara.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Modelos%20Varios/imagenes/pantalla.png)
+
 
