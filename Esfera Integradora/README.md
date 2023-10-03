@@ -19,5 +19,10 @@ Nuestro proyecto se centra en el desarrollo de modelos 3D detallados que serán 
 
 Esperamos que este proyecto de modelado 3D de assets mejore significativamente las experiencias de RV y RA en Unity y que contribuya al desarrollo de aplicaciones inmersivas y emocionantes. ¡Gracias por tu interés y contribuciones!
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Esfera%20Integradora/imagenes/esfera1.png)
+![Logo](
+https://github.com/IrvingPerez22/Portalio/blob/main/Esfera%20Integradora/imagenes/esfera2.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Esfera%20Integradora/imagenes/render1.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Esfera%20Integradora/imagenes/render2.png)
+![Logo](https://github.com/IrvingPerez22/Portalio/blob/main/Esfera%20Integradora/imagenes/render3.png)
 
